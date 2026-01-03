@@ -18,7 +18,7 @@ Please review the following before purchasing:
 
 - Paid premade Live2D model, not a beginner template
     
-- Outfit and appearance changes via **presets**, not sliders
+- Parameters are exposed and adjustable via sliders; however, presets are intentionally provided as the primary control method to avoid invalid layer combinations and ensure predictable results.
     
 - Color customization uses **integer-stepped parameters**, not freeform selection
     
